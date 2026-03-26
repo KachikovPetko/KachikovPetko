@@ -11,7 +11,7 @@ I obsess over the details — the hover animation, the data model, the scroll be
 **🃏 [Royaledly](https://github.com/)**
 A Clash Royale fan site with Wordle-style daily puzzle games — Classic, Pixel, Description, Emoji, Sound, and more. Hand-crafted UI with parallax scroll effects, carved CSS text, and a lot of attention to the little things. Built with Next.js, React, and TypeScript.
 
-**💪 [FitTrack](https://github.com/)**
+**💪 [GymApp](https://github.com/)**
 Fitness tracking app with an interactive SVG muscle map, 170+ exercises, smart workout templates, and macro logging. Dark-themed UI with fire gradient accents. Next.js 15 · React 19 · Express · PostgreSQL · Prisma.
 
 ---
